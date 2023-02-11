@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<picture>![Nighthawks_by_Edward_Hopper_1942](https://user-images.githubusercontent.com/63500365/218262439-1fc339ef-f117-499c-9a57-39b5da37132d.jpg)
-
 ### BIO
 - I am an aspiring software developer based in London, UK
 - Currently learning Web Development using: React, JavaScript, HTML and CSS
 - Interested in: Graphic Design and Photography
 - Reach me at: junyap0122@gmail.com (work) or 123offyap@gmail.com (personal)
+
+<picture>![Nighthawks_by_Edward_Hopper_1942](https://user-images.githubusercontent.com/63500365/218262439-1fc339ef-f117-499c-9a57-39b5da37132d.jpg)
