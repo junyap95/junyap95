@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://scontent-man2-1.xx.fbcdn.net/v/t39.30808-6/326982504_1197356450920721_1160490758219150395_n.jpg?stp=cp6_dst-jpg&_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=j_udzzDcre8AX-tLLzS&tn=ePn320F11y1cG_5P&_nc_ht=scontent-man2-1.xx&oh=00_AfBe4yi6Ve8O1DKHf9TEQ_gmzMFiLykdGB_d5KjkTxyRIw&oe=63EBCA53">
- <source media="(prefers-color-scheme: light)" srcset="https://scontent-man2-1.xx.fbcdn.net/v/t39.30808-6/326982504_1197356450920721_1160490758219150395_n.jpg?stp=cp6_dst-jpg&_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=j_udzzDcre8AX-tLLzS&tn=ePn320F11y1cG_5P&_nc_ht=scontent-man2-1.xx&oh=00_AfBe4yi6Ve8O1DKHf9TEQ_gmzMFiLykdGB_d5KjkTxyRIw&oe=63EBCA53">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+<picture>![Nighthawks_by_Edward_Hopper_1942](https://user-images.githubusercontent.com/63500365/218262439-1fc339ef-f117-499c-9a57-39b5da37132d.jpg)
 
 ### BIO
 - I am an aspiring software developer based in London, UK
