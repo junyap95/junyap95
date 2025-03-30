@@ -1,7 +1,7 @@
 # About Me:
 - I'm currently working on a Gamified Learning App for Studyseed CIC. Check out the [programme](https://www.linkedin.com/posts/lisburn-city-council_its-game-on-for-new-numeracy-and-literacy-activity-7247542151427813376-tglA?utm_source=share&utm_medium=member_desktop) here!  
 - Studied Computer Science at Birkbeck, University of London.
-- Also completed a 16-week web development course with HyperionDev. Final project was a Hangman Game, please give it a try and let me know if you like it! [Pokémon Hangman](https://hangman-jby.netlify.app/)
+- Also completed a 16-week web development course with HyperionDev. Final project: [Pokémon Hangman](https://hangman-jby.netlify.app/)
 - Currently working as a contractor developer. Also looking for new opportunities! Connect with me on [LinkedIn](https://www.linkedin.com/in/jbyap/).
 
 ---
